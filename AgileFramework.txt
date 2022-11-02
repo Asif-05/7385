@@ -1,0 +1,602 @@
+Waterfall 
+
+    - sequential or linear development model
+
+
+    - every stage will be completed before moving to the next stage
+
+
+    - it is a time consuming model
+
+   
+    - it is not dynamic
+
+
+    - immediate results can't be generated
+
+    
+    - it can't take any changes in between
+
+   
+   
+
+Agile Manifesto  (12 principles)
+
+
+     - people over processes
+
+            - we initiate improved communication
+
+            - direct communication with the client
+
+            - meeting happens on wweekly, daily basis
+
+            
+
+     - working software
+
+            - RAD prototyping is done
+
+            - Rapid Application Development(RAD)
+
+            - prototype is a model of a proposed system
+
+
+     - customer collaboration
+
+            - through product owners the customer can collaborate closely
+
+            - face to face interactions
+
+            - for clarification meeting happens regularly with the client 
+
+            - product owner represent the client needs
+
+                                  
+
+
+     - responding to changes 
+
+                - welcome the client's need
+
+                - incorporate the changes demanded by the client
+
+                - delivery of product in a short duration of time
+
+                - following a flexible approach
+
+         
+
+Flexible, dynamic and reliable 
+
+
+SCRUM
+
+    - it is an agile framework
+
+
+    Five stages in SCRUM
+
+       - Sprint Planning
+
+              - Sprint is an iteration (1 to 5 weeks duration) 
+
+              - Agile project has Multiple Sprints 
+
+              - gap between one sprint and another sprint is called timeboxing
+
+       - Daily stand up meeting and artifacts updated
+
+              - here people will be allocated with tasks
+
+              - lesson we learnt from  project or takeaways 
+
+              - 
+
+
+       - Review
+
+              - formal meeting with the team
+
+
+
+       - Retrospect
+
+             - analyze what we have done so far in the project
+    
+             - past activities in the project
+
+       - No changes (execute sprint)
+
+
+             - meet the deadlines of project
+
+            
+
+SCRUM master  - he takes care of the entire scrum activities
+
+
+Product owner - he is the voice of customer , represent the customer
+
+Sprint backlog - pending sprints to be executed
+
+Product backlog - pending tasks to be completed 
+
+
+
+The needed tasks will be moved from product backlog to sprint backlog
+
+
+
+Scrum master
+
+      - Good communication skills
+
+      - conflict resolving
+
+      - interpersonal skills
+
+      - leadership skills are very important
+
+      - monitoring and controlling 
+
+      - feedbacks to improve the performance of the team
+
+      - give importance to quality 
+
+
+Product Owner
+  
+     - works like a point of contact for entire team
+
+     - he represents the client needs
+
+     - incharge of succeess of the product
+
+     - collaborates with all in the team
+
+
+
+Sprint Planning
+
+      Product backlog
+
+        - pending task to be completed
+
+      Team Structure and Capabilties
+
+        -  skill set of team members
+
+      Business condition
+
+        - based on requirements
+
+Sprint
+
+   Sprint  Backlog 
+   
+         - Pending sprints to be executed
+
+  Burndown 
+
+        - it shows a report based on sprints and it's completion time
+
+        - graphical reprensentation
+
+        - 7 days to 30 days
+
+  Daily Scrum Stand Up Meeting
+
+        - On a daily basis
+
+        - task will be allocated 
+
+        - Decision making
+
+
+  Sprint Review meeting
+
+        - Review meeting
+
+        - informal 
+
+  Sprint retrospective
+
+        - checking or analysing the past activities
+
+        - process improvement
+
+        - scrum master responsibility
+
+        - priortize the tasks
+
+        -        
+
+Extreme Programming
+
+
+     - high quality software is produced keeping customer in mind
+
+    Best practices
+
+      - Pair wise programming
+
+            - here the tester will fix the bug and the developer will perform regression testing
+
+      - Continuos process
+           
+            - no delays are allowed 
+
+            - developer and tester take turns in completing the task
+
+       - Coding standards
+  
+            - ISO standard will be implemented for any programming language or databse
+ 
+            - naming conventions and coding standards           
+
+       - Test Driven Develoment(TDD)
+
+
+              - we write test cases before coding
+
+FDD
+
+     - Feature driven development
+
+Lean software development
+
+      -  eliminate the wastages
+
+      -  fast delivery 
+
+      -  improved productivity
+
+      -  cost effective solution
+
+      -  optimize whole system
+
+SCRUM VS KANBAN
+
+
+   - SCANBAN
+
+         framework which is a combination of both
+
+         Scrum is more technical than Kanban
+
+         Kanban is very simple to follow because no sprints are followed
+
+Kanban board
+
+      - it shows the flow of work in progress
+
+      - provides easy access to team members
+
+      - progress can be displayed visually
+
+      - bottlenecks can be easily identified
+
+Agile Metrics
+
+      - to measure the agile process
+
+      - to improve the productivity
+
+      
+
+
+1. Sprint Burndown chart
+
+
+       - no of sprints in a scrum project
+ 
+       - how much time taken to complete
+
+       - it is represented as a report
+
+
+2. Velocity
+
+
+       - average time taken by the team in a sprint
+
+       - measured in hours, minutes
+
+       - the velocity should increase
+
+       - if it decreases then it means the performance is degraded
+
+3. Epic and Release burndown chart
+
+
+       - it deal with epic
+
+       - track the progress
+
+       - it is prepared for each sprint
+
+
+4. Control Chart 
+
+      - it focuses on time duration between "In progress and Complete Status"
+
+5. Cummulative flow diagram
+
+      - time duration taken for executing the flow diagram
+
+      - X axis deals with time
+ 
+      - Y axis deals with issues
+
+
+6. Lead time
+       - time taken between making a request to completing a request
+
+       - from defining the requirement till bug fixing
+
+7. Value Delivered
+
+       - assign the priority value for each requirement
+
+       - based on severity level the priority is assigned
+
+       
+8. Work item age
+
+      - the time duration between starting a task and completing a task
+
+      - it is used for identifying the unfinished task
+
+9. Throughput
+
+      - avearge task completion per time unit  
+
+ 
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+          
+
+
+
+
+           
+
+
+
+
+
+ 
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+
+
+
+
+
+
+
+
+   
+     
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+   
