@@ -1,0 +1,128 @@
+Defect Category
+
+
+   - Defect are reorted by client
+
+    - Functionality
+        Ex: hyperlink not working, webpage is missing, system not responding as per the user command
+
+ 
+    - documentation
+
+         - Grammar errors, Spelling  mistakes, no proper alignment of content in the webpage, slide bar not working
+  
+   
+    - look and feel
+
+      - color, font size and type of the content, 
+
+
+    -  Database
+
+          - not able to fecth the right data from database
+
+          - duplicate entries
+
+          - CRUD(Create Retrieve Update Delete)
+
+          - indexing(how fast we can retrieve the data from DB)
+
+          - indexing is done to improve the perfoemance of DB
+
+          - when declaring a primary key indexing also done automatically 
+
+
+     - Security
+
+
+        - passwords, authentication, privilages, encryption
+Bug Reports
+
+
+     - Bug ID
+
+          - BR_MODULE-NAME_01
+
+          - Ex: BR_LOGIN_01
+
+     - Bug Description
+
+          - Like Test descriptions similarly write Bug descriptions
+
+          - Present tense(don't use continous format ex: rather than 'displaying' write 'displays'
+
+          - step by step process to reproduce the bug
+
+
+     - Bug Type
+
+          - Functional, Non functional(Performace and Security), Documentation, Look and Feel(aesthetic)
+
+     - Status
+
+          - New 
+
+          - Open 
+            
+          - Assign
+
+          - Fixed / Reject
+
+          - Close / Re-open
+
+          - Deferred
+
+     - Severity (Tester will decide)
+
+          - Critical  (Functional, Non functional(Performace and Security)
+       
+          - High      (Functional, Non functional(Performace and Security)
+       
+          - Medium    (Documentation)
+
+          - Low       (Look and feel)
+
+
+     - Priority (Developer will decide)
+
+         - 1   --> Critical, high
+
+         - 2   --> Medium 
+
+         - 3   --> Low 
+
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
